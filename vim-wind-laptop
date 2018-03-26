@@ -1,0 +1,4 @@
+color desert
+set showcmd
+set number
+set scrolloff=7
